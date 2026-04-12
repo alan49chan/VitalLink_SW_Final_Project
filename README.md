@@ -54,7 +54,7 @@ This document describes the functional and non-functional requirements of **Vita
 - Patient-side mock sensor data collection and history visualization  
 - Doctor-side real-time monitoring with alerts and trend analysis  
 - **Login authentication** for both Patient and Doctor to protect privacy  
-- **Live video and audio consultation** (Jitsi Meet WebRTC)  
+- **Live video and audio consultation** (WebRTC)  
 - Electronic prescriptions with doctor suggestions/notes  
 - **Patient can view full personal history** including all past prescriptions and doctor suggestions  
 - Secure local database storage  
@@ -92,7 +92,7 @@ VitalLink replaces physical clinic visits with a secure, privacy-protected remot
 - **Programming Language**: Python 3.10+  
 - **Framework**: Streamlit  
 - **Database**: SQLite (`vitalink.db`)  
-- **Video Call**: Embedded Jitsi Meet  
+- **Video Call**: Embedded WebRTC  
 - **Hardware**: Standard laptop with webcam/microphone
 
 ###### 2.5 Design and Implementation Constraints
@@ -135,7 +135,7 @@ VitalLink replaces physical clinic visits with a secure, privacy-protected remot
 ###### 3.1.4 Live Video Consultation Module
 | ID     | Requirement                                                                 | Priority |
 |--------|-----------------------------------------------------------------------------|----------|
-| FR-V1  | Both roles can join the same Jitsi Meet room after login                   | Must     |
+| FR-V1  | Both roles can join the same WebRTC Meet room after login                   | Must     |
 
 ###### 3.1.5 System Functions
 | ID     | Requirement                                                                 | Priority |
