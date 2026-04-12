@@ -202,7 +202,7 @@ This iterative Requirements → Development → Testing → Evolution cycle allo
 |---------------------|------------------------------------------------------|--------|
 | Alan                | Project Manager, Backend & Database, Login system    | 25%    |
 | [Member 2 Name]     | UI/Streamlit Development & Data Visualization        | 25%    |
-| [Member 3 Name]     | Sensor Simulation, Algorithm, Live Video Integration | 25%    |
+| Paul                | Sensor Simulation, Algorithm, Live Video Integration | 25%    |
 | [Member 4 Name]     | Testing, Documentation, Demo Video & Final Polish    | 25%    |
 
 *(Please replace the three “[Member X Name]” with your actual group members’ names.)*
