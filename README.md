@@ -131,7 +131,7 @@ All new requirements (FR-A1~A3, FR-P3) are implemented in `app.py` v1.0.
 
 ---
 
-**End of SRS Document v1.2**
+**End of SRS Document v1.0**
 
 
 
