@@ -198,12 +198,12 @@ Because of the Agile approach, any issues found during Evolution could be fixed 
 This iterative Requirements → Development → Testing → Evolution cycle allowed us to deliver a fully working pilot version of VitalLink on time within one month.
 
 ### Members (Roles & Responsibilities & Portion)
-| Member              | Role & Responsibilities                              | Portion |
-|---------------------|------------------------------------------------------|--------|
-| Alan                | Project Manager, Backend & Database, Login system    | 25%    |
-| Kathy               | UI/Streamlit Development & Data Visualization        | 25%    |
-| Paul                | Sensor Simulation, Algorithm, Live Video Integration | 25%    |
-| Kaelie              | Testing, Documentation, Demo Video & Final Polish    | 25%    |
+| Member              | Role & Responsibilities                               | Portion |
+|---------------------|-------------------------------------------------------|--------|
+| Alan                | Project Manager, Backend & Database, Documentation    | 25%    |
+| Kathy               | UI Design & Data Visualization, Login system          | 25%    |
+| Paul                | Backend & Database, Algorithm, Live Video Integration | 25%    |
+| Kaelie              | Testing,  Demo Video, Documentation                   | 25%    |
 
 *(Please replace the three “[Member X Name]” with your actual group members’ names.)*
 
