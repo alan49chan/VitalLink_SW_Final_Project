@@ -1,7 +1,7 @@
 # SW_Final_Project
 ---
 # Graphical Abstract
-![VitalLink Graphical Abstract](graphical_abstract.png)
+![VitalLink Graphical Abstract](graphical_abstract.jpg)
 ---
 # Purpose of the Software
 
