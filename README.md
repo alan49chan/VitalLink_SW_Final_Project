@@ -205,8 +205,6 @@ This iterative Requirements → Development → Testing → Evolution cycle allo
 | Paul                | Backend & Database, Algorithm, Live Video Integration | 25%    |
 | Kaelie              | Testing,  Demo Video, Documentation                   | 25%    |
 
-*(Please replace the three “[Member X Name]” with your actual group members’ names.)*
-
 ### Schedule (Completed within 1 month – April 2026)
 - **Week 1 (Sprint 1)**: Project setup, GitHub repo, SRS document, login system, database design  
 - **Week 2 (Sprint 2)**: Patient dashboard (sensor input, bio-stat history), Doctor dashboard (patient list & charts)  
