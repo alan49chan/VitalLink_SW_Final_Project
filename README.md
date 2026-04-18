@@ -215,7 +215,7 @@ This iterative Requirements → Development → Testing → Evolution cycle allo
 
 ### Algorithm*
 **Health Alert Algorithm** (simple rule-based system):
-- Blood Glucose > 180 mg/dL → “HIGH GLUCOSE!” alert (red)
+- Blood Glucose > 10.0 mmol/L → “HIGH GLUCOSE!” alert (red)
 - BP Systolic > 140 mmHg → “HYPERTENSION!” alert (red)
 - Otherwise → “Normal”
 
