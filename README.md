@@ -213,9 +213,14 @@ This iterative Requirements → Development → Testing → Evolution cycle allo
 
 ### Algorithm*
 **Health Alert Algorithm** (simple rule-based system):
-- Blood Glucose > 10.0 mmol/L → “HIGH GLUCOSE!” alert (red)
-- BP Systolic > 140 mmHg → “HYPERTENSION!” alert (red)
-- Otherwise → “Normal”
+| Vital Sign               | low | mild low |Normal |  mild high |  high |
+|--------------------------|-----|----------|-------|------------|-------|
+| Heart Rate               |50|60 |Normal |  100 | 110 |
+| Systolic blood pressure  | 80 | 90 |Normal |  140 | 159 |
+| Diastolic blood pressure | 50 | 60 |Normal |  90 | 99 |
+| Temperature              | 35 | 36 |Normal |  37.5 |  38.5 |
+| oxygen                   | 92 | 95 |Normal |  99 |  100 |
+| Blood Glucose            | 2.8 |3.9 |Normal | 7.8 | 10.0 |
 
 **History Retrieval Algorithm**:  
 SQL query filters all records by the logged-in patient’s username to display complete bio-stat history + every past prescription and doctor suggestion.
