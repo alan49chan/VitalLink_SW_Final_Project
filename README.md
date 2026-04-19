@@ -40,7 +40,7 @@ All requirements were reviewed and adjusted at the start of each sprint.
 **Project Title:** VitalLink  
 **Version:** 1.0 (Pilot / Demo Version with Login & History)  
 **Date:** April 2026  
-**Group Members:** [Insert your 4 names here]  
+**Group Members:** CHAN MENG LAP (P2404735), IEC WAI IP (P2404741), KE ZIYI(P2421449), LIANG KAIQIAN(P2422952)
 **Course:** COMP2116 Software Engineering  
 **Macao Polytechnic University**
 
@@ -200,10 +200,10 @@ This iterative Requirements → Development → Testing → Evolution cycle allo
 ### Members (Roles & Responsibilities & Portion)
 | Member              | Role & Responsibilities                               | Portion |
 |---------------------|-------------------------------------------------------|--------|
-| Alan                | Project Manager, Backend & Database, Documentation    | 25%    |
-| Kathy               | UI Design & Data Visualization, Login system          | 25%    |
-| Paul                | Backend & Database, Algorithm, Live Video Integration | 25%    |
-| Kaelie              | Testing,  Demo Video, Documentation                   | 25%    |
+|CHAN MENG LAP (P2404735)| Project Manager, Backend & Database, Documentation    | 25%    |
+|LIANG KAIQIAN(P2422952)| UI Design & Data Visualization, Login system          | 25%    |
+|IEC WAI IP (P2404741)| Backend & Database, Algorithm, Live Video Integration | 25%    |
+|KE ZIYI(P2421449)| Testing,  Demo Video, Documentation                   | 25%    |
 
 ### Schedule (Completed within 1 month – April 2026)
 - **Week 1 (Sprint 1)**: Project setup, GitHub repo, SRS document, login system, database design  
