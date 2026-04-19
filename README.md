@@ -54,7 +54,7 @@ This cycle was repeated in every sprint, allowing us to deliver working features
 In this phase we gathered and refined all functional and non-functional needs of VitalLink.  
 We created and updated the **Software Requirements Specification** and the main README.md. Key activities included:
 - Defining user roles (Patient and Doctor) with login for privacy protection
-- Specifying mock sensor input, bio-stat history, live video consultation (WebRTC), and full prescription history with doctor suggestions
+- Specifying sensor input, bio-stat history, live video consultation (WebRTC), and full prescription history with doctor suggestions
 - Documenting the target market (chronic illness patients in Macau) and technical constraints (Python + Streamlit)
 All requirements were reviewed and adjusted at the start of each sprint.
 
