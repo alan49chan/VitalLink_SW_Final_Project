@@ -3,6 +3,30 @@
 # Graphical Abstract
 ![VitalLink Graphical Abstract](graphical_abstract.jpg)
 ---
+# Table of Contents
+
+- [Graphical Abstract](#graphical-abstract)
+- [Purpose of the Software](#purpose-of-the-software)
+- [Software Development Plan](#software-development-plan)
+  - [Development Process](#development-process)
+    - [Requirements Phase](#requirements-phase)
+      - [Software Requirements Specification (SRS)](#software-requirements-specification-srs)
+    - [Development Phase](#development-phase)
+    - [Testing Phase](#testing-phase)
+    - [Evolution Phase](#evolution-phase)
+  - [Members (Roles & Responsibilities & Portion)](#members-roles--responsibilities--portion)
+  - [Schedule (Completed within 1 month – April 2026)](#schedule-completed-within-1-month--april-2026)
+  - [Algorithm](#algorithm)
+  - [Current Status of Your Software](#current-status-of-your-software)
+  - [Future Plan](#future-plan)
+- [Demo Video](#demo-video)
+- [Real App on Server](#real-app-on-server)
+- [Source code](#source-code)
+- [Environment](#environment)
+- [Declaration](#declaration)
+
+---
+
 # Purpose of the Software
 
 **Type of software development process applied:**  
