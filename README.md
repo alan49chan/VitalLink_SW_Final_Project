@@ -75,7 +75,7 @@ This document describes the functional and non-functional requirements of **Vita
 
 ###### 1.2 Scope
 **In Scope (Pilot Version):**  
-- Patient-side mock sensor data collection and history visualization  
+- Patient-side sensor data collection and history visualization  
 - Doctor-side real-time monitoring with alerts and trend analysis  
 - **Login authentication** for both Patient and Doctor to protect privacy  
 - **Live video and audio consultation** (WebRTC)  
