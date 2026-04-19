@@ -246,3 +246,6 @@ The app runs locally with one command: `streamlit run app.py`. It is ready for d
 ---
 # Demo Video
 ## https://youtu.be/gsf9egbvsg8
+---
+# Real App on Sever
+## https://jojo988.com
