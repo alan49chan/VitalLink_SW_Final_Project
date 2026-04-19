@@ -40,7 +40,7 @@ All requirements were reviewed and adjusted at the start of each sprint.
 **Project Title:** VitalLink  
 **Version:** 1.0 (Pilot / Demo Version with Login & History)  
 **Date:** April 2026  
-**Group Members:** CHAN MENG LAP (P2404735), IEC WAI IP (P2404741), KE ZIYI(P2421449), LIANG KAIQIAN(P2422952)
+**Group Members:** CHAN MENG LAP (P2404735), IEC WAI IP (P2404741), KE ZIYI(P2421449), LIANG KAIQIAN(P2422952)  
 **Course:** COMP2116 Software Engineering  
 **Macao Polytechnic University**
 
