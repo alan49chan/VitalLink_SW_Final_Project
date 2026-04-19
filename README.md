@@ -247,5 +247,8 @@ The app runs locally with one command: `streamlit run app.py`. It is ready for d
 # Demo Video
 ## https://youtu.be/gsf9egbvsg8
 ---
-# Real App on Sever
+# Real App on Server
 ## https://jojo988.com
+---
+# Source code
+**Source Code:** [vitalink folder](vitalink/app.py)
