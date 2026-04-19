@@ -246,6 +246,17 @@ The app runs locally with one command: `streamlit run app.py`. It is ready for d
 ---
 # Demo Video
 ## https://youtu.be/gsf9egbvsg8
+<p align="center">
+  <a href="https://youtu.be/gsf9egbvsg8">
+    <img src="https://img.youtube.com/vi/gsf9egbvsg8/maxresdefault.jpg" 
+         alt="VitalLink Demo Video" 
+         width="640" 
+         style="max-width:100%; border-radius:8px;">
+  </a>
+</p>
+
+*Click the image above to watch the full VitalLink demo on YouTube*
+
 ---
 # Real App on Server
 ## https://jojo988.com
