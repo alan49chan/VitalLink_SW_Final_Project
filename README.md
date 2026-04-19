@@ -244,3 +244,5 @@ The app runs locally with one command: `streamlit run app.py`. It is ready for d
 - Deploy on Streamlit Community Cloud or a web server for actual hospital use
 
 ---
+# Demo Video
+## https://youtu.be/gsf9egbvsg8
